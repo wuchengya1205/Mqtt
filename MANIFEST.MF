@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Class-Path: lib/gson-2.2.2.jar 
+  lib/hawtbuf-1.9.jar 
+  lib/mqtt-client-1.13.jar 
+  lib/mysql-connector-java-8.0.11.jar 
+  lib/org.eclipse.paho.client.mqttv3-1.2.0.jar 
+  lib/sqljdbc42.jar
+Main-Class: com.itsync.mqtt.Paho
